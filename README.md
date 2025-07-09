@@ -1,17 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/z8Hqz0F.png" alt="R290-cell - Banner" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2AF7FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rose+Wali;Full-Stack+Developer+from+Kenya;I+❤️+Coding+and+Design" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R290-cell&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
-
+HI, AM ROSE  👋
 ## 👩‍💻 About Me
 
 Hi! I'm Rose Wali — a creative full-stack developer who blends design, logic, and caffeine ☕ to build magical user experiences.  
